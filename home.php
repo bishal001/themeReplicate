@@ -10,6 +10,7 @@
   </div>
 </div>
 <!-- hero section ended -->
+
 <!-- calling js files for the particles -->
 <script src="javascript/particles.js"></script>
     <script src="javascript/app.js"></script>
