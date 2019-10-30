@@ -73,10 +73,34 @@ p{
 
 /* responsive media query */
 /* Extra small devices (phones, 600px and down) */
-@media only screen and (max-width: 600px) {}
+@media only screen and (max-width: 600px) {
+  /* designing the text of the hero section */
+  .hero_text{
+    font-size: 100px;
+    color: #eaeaea;
+    margin-top: 100px;
+  }
+
+  /* css for the particle effect */
+  #particles-js{
+    width: 45%;
+    height: 30%;
+    transform: translate(0%,-100%);
+  }
+
+  /* blinking text styling */
+  p{
+    font-size: 30px; 
+    color: #eaeaea;
+    transform: translate(0%,-320%);
+  }
+
+}
 
 /* Small devices (portrait tablets and large phones, 600px and up) */
-@media only screen and (min-width: 600px) {}
+@media only screen and (min-width: 600px) {
+  
+}
 
 /* Medium devices (landscape tablets, 768px and up) */
 @media only screen and (min-width: 768px) {}
@@ -85,4 +109,25 @@ p{
 @media only screen and (min-width: 992px) {}
 
 /* Extra large devices (large laptops and desktops, 1200px and up) */
-@media only screen and (min-width: 1200px) {}
+@media only screen and (min-width: 1200px) {
+   /* designing the text of the hero section */
+   .hero_text{
+    font-size: 200px;
+    color: #eaeaea;
+    margin-top: 90px;
+  }
+
+  /* css for the particle effect */
+  #particles-js{
+    width: 45%;
+    height: 30%;
+    transform: translate(0%,-120%);
+  }
+
+  /* blinking text styling */
+  p{
+    font-size: 30px; 
+    color: #eaeaea;
+    transform: translate(0%,-360%);
+  }
+}
