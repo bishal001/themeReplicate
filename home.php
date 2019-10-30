@@ -4,7 +4,9 @@
     <!-- calling nav menu -->  
     <?php include'nav.php'?>
     <!-- hero section text -->
-    <div class="col-xl-12 col-lg-12 col-md-12 font-weight-bold hero_text text-center" id="particles-js">Turtle</div>
+    <div class="col-xl-12 col-lg-12 col-md-12 font-weight-bold hero_text text-center" id="particle">Turtle</div>
+    <!-- div to display the partical effect -->
+    <div id="particles-js" class="mx-auto"></div>
   </div>
 </div>
 <!-- hero section ended -->

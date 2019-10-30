@@ -22,14 +22,14 @@ body {
 .hero{
   background: url(../images/hero.jpg) no-repeat;
   
-  height: 550px;
+  height: 100%;
   width: 100%;  
   padding-top: 10px;
   background-size: cover;
 }
 
 .hero_layer{
-  height: 550px;
+  height: 100%;
   width: 100%;  
   background-image: linear-gradient(to right, #00F2FF, #7100B7 100%);
   opacity: 0.8;
@@ -41,7 +41,15 @@ body {
 
 /* designing the text of the hero section */
 .hero_text{
-  font-size: 1000%;
-  margin-top: 200px;
+  font-size: 250px;
   color: #eaeaea;
+  margin-top: 130px;
+}
+
+/* css for the particle effect */
+#particles-js{
+  width: 50%;
+  height: 50%;
+  margin-top: 200px;
+  transform: translate(0%,-165%);
 }
