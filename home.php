@@ -16,7 +16,7 @@
 </div>
 <!-- hero section ended -->
 
-
+<!-- importing custom js file -->
 <script src="javascript/custom.js"></script>
 <!-- calling js files for the particles -->
 <script src="javascript/particles.js"></script>

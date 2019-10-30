@@ -17,7 +17,6 @@ body {
   font-weight: 500;
 }
 
-
 /* designing the herosection */
 .hero{
   background: url(../images/hero.jpg) no-repeat;
@@ -109,25 +108,4 @@ p{
 @media only screen and (min-width: 992px) {}
 
 /* Extra large devices (large laptops and desktops, 1200px and up) */
-@media only screen and (min-width: 1200px) {
-   /* designing the text of the hero section */
-   .hero_text{
-    font-size: 200px;
-    color: #eaeaea;
-    margin-top: 90px;
-  }
-
-  /* css for the particle effect */
-  #particles-js{
-    width: 45%;
-    height: 30%;
-    transform: translate(0%,-120%);
-  }
-
-  /* blinking text styling */
-  p{
-    font-size: 30px; 
-    color: #eaeaea;
-    transform: translate(0%,-360%);
-  }
-}
+@media only screen and (min-width: 1200px) {}
