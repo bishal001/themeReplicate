@@ -44,6 +44,7 @@
 
 <body>
   <div class="d-block d-lg-none sticky-top side-nav">
+    <a class="navbar-brand" href="#">Logo</a>
     <div id="mySidenav" class="sidenav">
       <!-- contains the cart, login and register section -->
       <a href="javascript:void(0)" class="closebtn" onclick="closeNav()">&times;</a>
