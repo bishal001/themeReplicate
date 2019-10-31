@@ -71,7 +71,7 @@
      
     </div>
     
-      <span style="font-size:30px;cursor:pointer;" class="float-right" onclick="openNav()">&#9776; </span>
+      <span style="font-size:30px;cursor:pointer; margin-top:530px;" class="float-right mr-5" onclick="openNav()">&#9776; </span>
     
     
 
