@@ -12,9 +12,13 @@ body {
 
 /* designing the navbar */
 .nav-link{
-  float: right;
   color: #eaeaea;
   font-weight: 500;
+}
+
+/* side menu css code */
+.side_menu{
+  color: black;
 }
 
 /* designing the herosection */
@@ -57,7 +61,6 @@ body {
   font-size: 50px; 
   color: #eaeaea;
   transform: translate(0%,-320%);
-  
 }
 
 .blink {
@@ -117,7 +120,7 @@ body {
   }
 
   /* blinking text styling */
-  p{
+  .typed_text{
     font-size: 30px; 
     color: #eaeaea;
     transform: translate(0%,-320%);
