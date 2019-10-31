@@ -9,22 +9,22 @@
       <ul class="navbar-nav ml-auto ">
         <!-- creating nav menu items -->
         <li class="nav-item">
-          <a href="#" class="nav-link">Home</a>
+          <a href="#" class="nav-link underline">Home</a>
         </li>
         <li class="nav-item">
-          <a href="#" class="nav-link">Our Work</a>
+          <a href="#" class="nav-link underline">Our Work</a>
         </li>
         <li class="nav-item">
-          <a href="#" class="nav-link">About Us</a>
+          <a href="#" class="nav-link underline">About Us</a>
         </li>
         <li class="nav-item">
-          <a href="#" class="nav-link">Services</a>
+          <a href="#" class="nav-link underline">Services</a>
         </li>
         <li class="nav-item">
-          <a href="#" class="nav-link">Our Skills</a>
+          <a href="#" class="nav-link underline">Our Skills</a>
         </li>
         <li class="nav-item">
-          <a href="#" class="nav-link">Contact Us</a>
+          <a href="#" class="nav-link underline">Contact Us</a>
         </li>
       </ul>
     </nav>
