@@ -10,7 +10,7 @@
 
     <!-- blinking text effect section -->
     <div class="flex">
-      <p id="word" class="font-weight-bold"></p><p class="blink">|</p>
+      <p id="word" class="font-weight-bold typed_text"></p><p class="blink typed_text">|</p>
     </div>
   </div>
 </div>

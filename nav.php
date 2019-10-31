@@ -5,7 +5,7 @@
   <!-- creating a navigation manu -->
   <div class="d-none d-lg-block">
     <nav class="navbar navbar-expand-lg">
-      <a class="navbar-branzd" href="#">Logo</a>
+      <a class="navbar-brand" href="#">Logo</a>
       <ul class="navbar-nav ml-auto ">
         <!-- creating nav menu items -->
         <li class="nav-item">
@@ -32,7 +32,8 @@
 
   <div class="d-lg-none d-block">
     <nav class="navbar navbar-expand-lg">
-    <a class="navbar-branzd" href="#">Logo</a>
+      <a class="navbar-brand" href="#">Logo</a>
+
     </nav>
   </div>
   
