@@ -89,6 +89,7 @@ p{
 }
 .underline:hover:after { 
   width: 100%; 
+  height: 10%;
   left: 0; 
 }
 
