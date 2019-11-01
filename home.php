@@ -1,3 +1,7 @@
+<!-- calling the header section -->
+<?php include'header.php'?>
+
+<div class="container">
 <!-- hero section started -->
 <div class="hero">
   <div class="hero_layer">
@@ -14,6 +18,7 @@
       <p id="word" class="font-weight-bold typed_text"></p><p class="blink typed_text">|</p>
     </div>
   </div>
+</div>
 </div>
 <!-- hero section ended -->
 

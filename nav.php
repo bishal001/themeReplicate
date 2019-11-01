@@ -1,7 +1,4 @@
-<!-- calling the header section -->
-<?php include'header.php'?>
 
-<body>
   <!-- creating a navigation manu -->
   <div class="d-none d-lg-block">
     <nav class="navbar navbar-expand-lg">
