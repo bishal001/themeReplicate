@@ -104,7 +104,7 @@ body {
 
 /* responsive media query */
 /* Extra small devices (phones, 600px and down) */
-@media only screen and (max-width: 600px) {
+@media only screen and (max-width: 991px) {
   /* designing the text of the hero section */
   .hero_text{
     font-size: 100px;
@@ -126,18 +126,77 @@ body {
     transform: translate(0%,-320%);
   }
 
+
+  /* side menu */
+  .navbar {
+    height: 65%;
+    width: 30%;
+    position: fixed;
+    top: 0;
+    background-color: black;
+    overflow-x: hidden;
+    transition: 0.5s;
+    padding-top: 70px;
+  
+  }
+  
+  /* css code for the links */
+  .navbar-nav a {
+    text-decoration: none;
+    font-size: 14px;
+  
+  }
+  
+  /* css for the close button of the nav bar */
+  .navbar-nav .closebtn {
+    position: absolute;
+    top: 0;
+    right: 25px;
+    font-size: 36px;
+    margin-left: 50px;
+  }
+
+  .nav_open{
+    float: right;
+    position: relative;
+  }
+  
+  .side-nav {
+    color: white;
+  }
+  
+  /* styleing the side menu */
+  .sideNav {
+    margin-top: 200px;
+    right: 0;
+  }
+
+  /* designing the navbar */
+.nav-link{
+  color: #eaeaea;
+  font-weight: 500;
 }
 
-/* Small devices (portrait tablets and large phones, 600px and up) */
-@media only screen and (min-width: 600px) {
+/* side menu css code */
+.side_menu{
+  color: black;
+}
+}
+
+
+/* Large devices (laptops/desktops, 992px and up) */
+@media only screen and (max-width: 992px) {
+  
+  
   
 }
 
-/* Medium devices (landscape tablets, 768px and up) */
-@media only screen and (min-width: 768px) {}
+@media only screen and (min-width: 992px) {
 
-/* Large devices (laptops/desktops, 992px and up) */
-@media only screen and (min-width: 992px) {}
+}
 
 /* Extra large devices (large laptops and desktops, 1200px and up) */
-@media only screen and (min-width: 1200px) {}
+@media only screen and (min-width: 1200px) {
+  
+
+}

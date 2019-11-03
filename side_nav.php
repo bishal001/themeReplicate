@@ -1,43 +1,7 @@
 <!-- css code for the side nav bar -->
 <style>
 /* body part of the side nav bar */
-.sidenav {
-  height: 65%;
-  width: 30%;
-  position: fixed;
-  top: 0;
-  background-color: black;
-  overflow-x: hidden;
-  transition: 0.5s;
-  padding-top: 70px;
 
-}
-
-/* css code for the links */
-.sidenav a {
-  text-decoration: none;
-  font-size: 14px;
-
-}
-
-/* css for the close button of the nav bar */
-.sidenav .closebtn {
-  position: absolute;
-  top: 0;
-  right: 25px;
-  font-size: 36px;
-  margin-left: 50px;
-}
-
-.side-nav {
-  color: white;
-}
-
-/* styleing the side menu */
-.sideNav {
-  margin-top: 200px;
-  right: 0;
-}
 </style>
 <!-- creating the side nav menu -->
 <div class="row d-block d-lg-none">

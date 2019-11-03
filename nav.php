@@ -1,7 +1,11 @@
 
   <!-- creating a navigation manu -->
-  <div class="d-none d-lg-block">
-    <nav class="navbar navbar-expand-lg">
+  <div class="">
+    <nav class="navbar navbar-expand-lg sidenav" id="mySidenav">
+      <div class="col-12 text-center d-block d-lg-none">
+        sds
+      </div>
+      <a href="javascript:void(0)" class="closebtn d-block d-lg-none" onclick="closeNav()">&times;</a>
       <a class="navbar-brand" href="#">Logo</a>
       <ul class="navbar-nav ml-auto ">
         <!-- creating nav menu items -->
@@ -24,6 +28,19 @@
           <a href="#" class="nav-link underline" style="float: right;">Contact Us</a>
         </li>
       </ul>
+      <span style="font-size:30px;cursor:pointer; margin-top:530px;" class="float-right mr-5 d-block d-lg-none" onclick="openNav()">&#9776;
+    </span>
     </nav>
   </div>  
+
+<!-- js code for the side menu toogle -->
+  <script>
+function openNav() {
+  document.getElementById("mySidenav").style.width = "250px";
+}
+
+function closeNav() {
+  document.getElementById("mySidenav").style.width = "0";
+}
+</script>
   
