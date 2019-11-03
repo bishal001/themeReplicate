@@ -7,22 +7,22 @@
   <ul class="navbar-nav ml-auto ">
     <!-- creating nav menu items -->
     <li class="nav-item">
-      <a href="#" class="nav-link underline" style="float: right;">Home</a>
+      <a href="#" class="nav-link underline">Home</a>
     </li>
     <li class="nav-item">
-      <a href="#" class="nav-link underline" style="float: right;">Our Work</a>
+      <a href="#" class="nav-link underline">Our Work</a>
     </li>
     <li class="nav-item">
-      <a href="#" class="nav-link underline" style="float: right;">About Us</a>
+      <a href="#" class="nav-link underline">About Us</a>
     </li>
     <li class="nav-item">
-      <a href="#" class="nav-link underline" style="float: right;">Services</a>
+      <a href="#" class="nav-link underline">Services</a>
     </li>
     <li class="nav-item">
-      <a href="#" class="nav-link underline" style="float: right;">Our Skills</a>
+      <a href="#" class="nav-link underline">Our Skills</a>
     </li>
     <li class="nav-item">
-      <a href="#" class="nav-link underline" style="float: right;">Contact Us</a>
+      <a href="#" class="nav-link underline">Contact Us</a>
     </li>
   </ul>
   <span style="font-size:30px;cursor:pointer;" class="float-right mr-5 nav_open" onclick="openNav()">&#9776;
