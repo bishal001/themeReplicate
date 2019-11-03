@@ -25,8 +25,7 @@
       <a href="#" class="nav-link underline" style="float: right;">Contact Us</a>
     </li>
   </ul>
-  <span style="font-size:30px;cursor:pointer;" class="float-right mr-5 nav_open"
-    onclick="openNav()">&#9776;
+  <span style="font-size:30px;cursor:pointer;" class="float-right mr-5 nav_open" onclick="openNav()">&#9776;
   </span>
 </nav>
 
