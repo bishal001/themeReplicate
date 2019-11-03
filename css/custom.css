@@ -40,7 +40,6 @@ body {
 /* designing the herosection */
 .hero{
   background: url(../images/hero.jpg) no-repeat;
-  
   height: 100%;
   width: 100%;  
   padding-top: 10px;
@@ -55,7 +54,6 @@ body {
   position: absolute;
   top: 0;
   left: 0;
-  
 }
 
 /* designing the text of the hero section */
