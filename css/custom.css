@@ -145,15 +145,18 @@ body {
 
   /* side menu */
   .navbar {
-    height: 65%;
-    width: 30%;
+    height: auto;
+    width: auto;
     position: fixed;
     top: 0;
     background-color: black;
     overflow-x: hidden;
     transition: 0.5s;
     padding-top: 70px;
-  
+  }
+
+  .navbar-brand{
+    display: none;
   }
   
   /* css code for the links */
@@ -211,6 +214,10 @@ body {
 @media only screen and (min-width: 992px) {
 
   .nav_open{
+    display: none;
+  }
+
+  .logo{
     display: none;
   }
 

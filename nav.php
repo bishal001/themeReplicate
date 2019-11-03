@@ -1,9 +1,9 @@
 <!-- creating a navigation manu -->
-
+<p style="color: #eaeaea;font-size: 40px;font-weight: bold;" class="text-center logo"><img src="images/logo.png" class="img-fluid" alt="">Turtle</p>
 <nav class="navbar navbar-expand-lg" id="mySidenav">
 
   <a href="javascript:void(0)" class="closebtn d-block d-lg-none" onclick="closeNav()">&times;</a>
-  <a class="navbar-brand" href="#"><img src="images/logo.png" alt="">Turtle</a>
+  <a class="navbar-brand" href="#"><img src="images/logo.png" class="img-fluid" alt="">Turtle</a>
   <ul class="navbar-nav ml-auto ">
     <!-- creating nav menu items -->
     <li class="nav-item">
