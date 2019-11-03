@@ -2,9 +2,7 @@
   <!-- creating a navigation manu -->
   <div class="">
     <nav class="navbar navbar-expand-lg sidenav" id="mySidenav">
-      <div class="col-12 text-center d-block d-lg-none">
-        sds
-      </div>
+      
       <a href="javascript:void(0)" class="closebtn d-block d-lg-none" onclick="closeNav()">&times;</a>
       <a class="navbar-brand" href="#"><img src="images/logo.png" alt="">Turtle</a>
       <ul class="navbar-nav ml-auto ">

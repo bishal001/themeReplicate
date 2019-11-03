@@ -11,6 +11,10 @@ body {
 }
 
 /* designing the navbar */
+
+.navbar{
+  align-items: flex-start;
+}
 .nav-link{
   color: #eaeaea;
   font-weight: 500;
