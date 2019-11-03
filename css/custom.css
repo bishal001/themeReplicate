@@ -16,6 +16,18 @@ body {
   font-weight: 500;
 }
 
+/* logo design */
+.navbar-brand{
+  color: #eaeaea;
+  font-size: 40px;
+  font-weight: bold;
+  
+}
+
+.navbar-brand:hover{
+  color: #eaeaea;
+}
+
 /* side menu css code */
 .side_menu{
   color: black;

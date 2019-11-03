@@ -6,7 +6,7 @@
         sds
       </div>
       <a href="javascript:void(0)" class="closebtn d-block d-lg-none" onclick="closeNav()">&times;</a>
-      <a class="navbar-brand" href="#">Logo</a>
+      <a class="navbar-brand" href="#"><img src="images/logo.png" alt="">Turtle</a>
       <ul class="navbar-nav ml-auto ">
         <!-- creating nav menu items -->
         <li class="nav-item">
@@ -28,7 +28,7 @@
           <a href="#" class="nav-link underline" style="float: right;">Contact Us</a>
         </li>
       </ul>
-      <span style="font-size:30px;cursor:pointer; margin-top:530px;" class="float-right mr-5 d-block d-lg-none" onclick="openNav()">&#9776;
+      <span style="font-size:30px;cursor:pointer; margin-top:530px;" class="float-right mr-5 nav_open" onclick="openNav()">&#9776;
     </span>
     </nav>
   </div>  
