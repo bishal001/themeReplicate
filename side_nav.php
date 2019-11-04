@@ -101,7 +101,7 @@
 
 <?php include'header.php'?>
 <!--Navbar-->
-<div sticky-top side-nav justify-content-center>
+<div >
   <!--Navbar-->
   <nav class="navbar navbar-dark  indigo darken-2">
 

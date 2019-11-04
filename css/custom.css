@@ -38,7 +38,7 @@ body {
   right: 0;
   margin-bottom: 30;
   margin-right: 30;
-  z-index: 9990;
+  
 }
 
 .menu_items{
@@ -50,7 +50,7 @@ body {
   transform: translate(0%,-20%);
   background-color:rgba(12, 22, 30, 0.9);
   padding-left: 10;
-  z-index: 9990;
+  
 }
 
 /* designing the herosection */
@@ -60,7 +60,6 @@ body {
   width: 100%;  
   padding-top: 10px;
   background-size: cover;
-  
 }
 
 .hero_layer{
@@ -71,7 +70,6 @@ body {
   position: absolute;
   top: 0;
   left: 0;
-  
 }
 
 /* designing the text of the hero section */
@@ -79,7 +77,6 @@ body {
   font-size: 200px;
   color: #eaeaea;
   margin-top: 100px;
-  
 }
 
 
@@ -88,7 +85,6 @@ body {
   width: 45%;
   height: 40%;
   transform: translate(0%,-100%);
-  z-index: 5;
 }
 
 /* blinking text styling */
@@ -152,7 +148,6 @@ body {
     width: 45%;
     height: 30%;
     transform: translate(0%,-100%);
-    
   }
 
   /* blinking text styling */

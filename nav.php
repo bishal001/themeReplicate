@@ -78,10 +78,6 @@
   top: 21px;
   left: 8px;
 }
-
-
-
-
 </style>
 <!-- creating a navigation manu for the large screen -->
 <div class="d-lg-block d-none">
@@ -108,7 +104,6 @@
         <a href="#" class="nav-link underline">Contact Us</a>
       </li>
     </ul>
-    </span>
   </nav>
 </div>
 
@@ -149,15 +144,14 @@
       </ul>
     </div>
   </div>
-   <!-- js code for the side menu toogle -->
+  <!-- js code for the side menu toogle -->
   <script>
   $(document).ready(function() {
 
-$('.button').on('click', function() {
+    $('.button').on('click', function() {
 
-  $('.animated-icon3').toggleClass('open');
-});
-});
+      $('.animated-icon3').toggleClass('open');
+    });
+  });
   </script>
-</div>
 </div>
