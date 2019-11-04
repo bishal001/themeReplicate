@@ -127,7 +127,7 @@
     </button>
     <!-- contains the body section of the nav bar for the small device -->
     <div class="collapse navbar-collapse" id="navbarSupportedContent22">
-      <ul class="navbar-nav menu_items ml-4" style="z-index:9990">
+      <ul class="navbar-nav menu_items ml-4">
         <li class="nav-item">
           <a href="#" class="nav-link underline">Home</a>
         </li>
