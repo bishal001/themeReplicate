@@ -69,7 +69,7 @@ body {
   width: 45%;
   height: 40%;
   transform: translate(0%,-100%);
-  
+  z-index: 5;
 }
 
 /* blinking text styling */
