@@ -38,7 +38,7 @@ body {
   right: 0;
   margin-bottom: 30;
   margin-right: 30;
-  
+  z-index: 9990;
 }
 
 .menu_items{

@@ -115,7 +115,10 @@
 <!-- creating a navigation manu for the small screen -->
 <div class="d-lg-none d-block">
 
-  <div class="sticky-top side-nav justify-content-center">
+  <div class="sticky-top side-nav">
+    <div class="container text-center" style="width: 100%;">
+      <a class="navbar-brand" href="#"><img src="images/logo.png" class="img-fluid" alt="">Turtle</a>
+    </div>
     <!-- Collapse button -->
     <button class="navbar-toggler ml-auto side_menu button" type="button" data-toggle="collapse"
       data-target="#navbarSupportedContent22" aria-controls="navbarSupportedContent22" aria-expanded="false"
