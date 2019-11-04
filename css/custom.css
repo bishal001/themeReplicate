@@ -32,7 +32,26 @@ body {
   color: #eaeaea;
 }
 
-/* side menu css code */
+.side_menu {
+  position: fixed;
+  bottom: 0;
+  right: 0;
+  margin-bottom: 30;
+  margin-right: 30;
+  
+}
+
+.menu_items{
+  width: 90%;
+  max-width: 300px;
+  position: fixed;
+  bottom: 0;
+  right: 5%;
+  transform: translate(0%,-20%);
+  background-color:rgba(12, 22, 30, 0.9);
+  padding-left: 10;
+  z-index: 9990;
+}
 
 /* designing the herosection */
 .hero{

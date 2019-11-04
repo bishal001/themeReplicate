@@ -79,28 +79,8 @@
   left: 8px;
 }
 
-.side_menu {
-  position: fixed;
-  bottom: 0;
-  right: 0;
-  margin-bottom: 30;
-  margin-right: 30;
-}
 
-.menu_items{
-  width: 25%;
-  position: fixed;
-  bottom: 0;
-  right: 0;
-  transform: translate(0%,-20%);
-  margin-right: 90;
-  background-color:black;
-  padding-left: 10;
-}
 
-.side-nav{
-  position: absolute;
-}
 
 </style>
 <!-- creating a navigation manu for the large screen -->
