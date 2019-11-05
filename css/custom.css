@@ -60,6 +60,7 @@ body {
   width: 100%;  
   padding-top: 10px;
   background-size: cover;
+  
 }
 
 .hero_layer{
@@ -130,6 +131,14 @@ body {
 
 .underline:hover{
   color: #eaeaea;
+}
+
+/* section 2 background property */
+.section-2{
+  background: url(../images/section_2.jpg);
+  height: 100%;
+  width: 100%;  
+  background-size: cover;
 }
 
 
