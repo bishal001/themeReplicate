@@ -10,6 +10,13 @@ body {
   font-family: 'Titillium Web', sans-serif;
 }
 
+.text{
+  color: #eaeaea;
+  font-size: 40px;
+  margin-left: 100px;
+  margin-top: 200px;
+}
+
 /* designing the navbar */
 
 .navbar{

@@ -20,11 +20,14 @@
   </div>
   <!-- hero section ended -->
 </section>
-<!-- Section 1 en -->
+<!-- Section 1 ended -->
 
 <!-- started section 2 -->
 <section class="row section-2 no-gutters">
-  
+  <div class="text">
+    <dt class="d-inline">Coolest</dt>
+    <p class="d-inline">HTML Theme yet?</p>
+  </div>
 </section>
 <!-- ended section 2 -->
 
