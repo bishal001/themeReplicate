@@ -155,6 +155,8 @@ body {
   margin-left: 9px;
   margin-top: 320px;
   border-radius: 0;
+  width: 180px;
+  height: 50px;
 }
 
 /* responsive media query */
