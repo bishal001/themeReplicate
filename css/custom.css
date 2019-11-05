@@ -148,6 +148,14 @@ body {
   background-size: cover;
 }
 
+/* button-1 design */
+.button_1{
+  background-color: #7100B7;
+  color: #eaeaea;
+  margin-left: 9px;
+  margin-top: 320px;
+  border-radius: 0;
+}
 
 /* responsive media query */
 /* Extra small devices (phones, 600px and down) */
