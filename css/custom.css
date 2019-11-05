@@ -159,6 +159,11 @@ body {
   height: 50px;
 }
 
+.button_1:hover{
+  background-color: red;
+  color: #eaeaea;
+}
+
 /* responsive media query */
 /* Extra small devices (phones, 600px and down) */
 @media only screen and (max-width: 600px) {
