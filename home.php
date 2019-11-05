@@ -27,6 +27,10 @@
   <div class="text">
     <dt class="d-inline">Coolest</dt>
     <p class="d-inline">HTML Theme yet?</p>
+    <p style="font-size: 30;">Start with particle today, why not!</p>
+  </div>
+  <div class="button">
+    <button>Get it now</button>
   </div>
 </section>
 <!-- ended section 2 -->
