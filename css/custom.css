@@ -24,7 +24,8 @@ body {
 }
 .nav-link{
   color: #eaeaea;
-  font-weight: 500;
+  font-size: 14px;
+  margin: 10px;
 }
 
 /* logo design */
