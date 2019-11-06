@@ -83,17 +83,17 @@ body {
 
 /* designing the text of the hero section */
 .hero_text{
-  font-size: 200px;
+  font-size: 300px;
   color: #eaeaea;
-  margin-top: 100px;
+  margin-top: 50px;
 }
 
 
 /* css for the particle effect */
 #particles-js{
-  width: 45%;
-  height: 40%;
-  transform: translate(0%,-100%);
+  width: 60%;
+  height: 30%;
+  transform: translate(0%,-160%);
 }
 
 /* blinking text styling */
