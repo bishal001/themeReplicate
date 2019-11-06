@@ -83,7 +83,7 @@
 <div class="d-lg-block d-none">
   <nav class="navbar navbar-expand-lg">
     <a class="navbar-brand" href="#"><img src="images/logo.png" class="img-fluid" alt="">Turtle</a>
-    <ul class="navbar-nav ml-auto">
+    <ul class="navbar-nav ml-auto mr-5">
       <!-- creating nav menu items -->
       <li class="nav-item">
         <a href="#" class="nav-link underline ml-3">Home</a>
