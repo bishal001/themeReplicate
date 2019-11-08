@@ -48,6 +48,21 @@
     <p class="in-left pt-1">The new Style for 2017 is here. Like it?</p>
     <a href="#" class="in-left pt-1 section_3_link font-weight-bold">BUY THEME NOW!</a>
   </div>
+  <!-- div to store images -->
+  <div class="row no-gutters">
+    <div class="col-xl-3" style="width:25%;">
+      <img src="images/img-1.jpg" alt="">
+    </div>
+    <div class="col-xl-3" style="width:25%;">
+      <img src="images/img-2.jpg" alt="">
+    </div>
+    <div class="col-xl-3" style="width:25%;">
+      <img src="images/img-3.jpg" alt="">
+    </div>
+    <div class="col-xl-3" style="width:25%;">
+      <img src="images/img-4.jpg" alt="">
+    </div>
+  </div>
 </section>
 <!-- started section 3 -->
 
