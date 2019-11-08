@@ -34,7 +34,7 @@
     </div>
   </div>
   <div class="row">
-    <button class="btn button_1">Get it now</button>
+    <button class="btn button_1" style="margin-left: -400px">Get it now</button>
   </div>
 </section>
 <!-- ended section 2 -->
