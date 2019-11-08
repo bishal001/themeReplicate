@@ -117,7 +117,7 @@
 
 <!-- started section 4 -->
 <section class="page-scroll" id="about-us">
-  <div>asdasd</div>
+  <div></div>
 </section>
 <!-- ended section 4 -->
 
