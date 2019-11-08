@@ -86,10 +86,10 @@
     <ul class="navbar-nav ml-auto mr-5">
       <!-- creating nav menu items -->
       <li class="nav-item">
-        <a href="#" class="nav-link underline ml-3">Home</a>
+        <a href="#home" class="nav-link underline ml-3">Home</a>
       </li>
       <li class="nav-item">
-        <a href="#" class="nav-link underline">Our Work</a>
+        <a href="#our-work" class="nav-link underline">Our Work</a>
       </li>
       <li class="nav-item">
         <a href="#" class="nav-link underline">About Us</a>
@@ -124,10 +124,10 @@
     <div class="collapse navbar-collapse" id="navbarSupportedContent22">
       <ul class="navbar-nav menu_items ml-4">
         <li class="nav-item">
-          <a href="#" class="nav-link underline">Home</a>
+          <a href="#home" class="nav-link underline">Home</a>
         </li>
         <li class="nav-item">
-          <a href="#" class="nav-link underline">Our Work</a>
+          <a href="#our-work" class="nav-link underline">Our Work</a>
         </li>
         <li class="nav-item">
           <a href="#" class="nav-link underline">About Us</a>

@@ -2,7 +2,7 @@
 <?php include'header.php'?>
 
 <!-- Section 1 started -->
-<section class="row hero no-gutters">
+<section class="row hero no-gutters page-scroll" id="home">
   <div class="hero_layer">
     <!-- calling nav menu -->
     <?php include'nav.php'?>
@@ -40,7 +40,7 @@
 <!-- ended section 2 -->
 
 <!-- started section 3 -->
-<section class="section-3">
+<section class="section-3 page-scroll" id="our-work">
   <div class="row no-gutters section_3_text justify-content-center">
     <p class="in-left">See Our Work</p>
   </div>
@@ -48,19 +48,19 @@
     <p class="in-left pt-1">The new Style for 2017 is here. Like it?</p>
     <a href="#" class="in-left pt-1 section_3_link font-weight-bold">BUY THEME NOW!</a>
   </div>
-  <!-- div to store images -->
+  <!-- stores the images for the section 3 -->
   <div class="row no-gutters">
     <div class="col-xl-3" style="width:25%;">
-      <img src="images/img-1.jpg" alt="">
+      <img src="images/img-1.jpg" class="img-fluid" alt="">
     </div>
     <div class="col-xl-3" style="width:25%;">
-      <img src="images/img-2.jpg" alt="">
+      <img src="images/img-2.jpg" class="img-fluid" alt="">
     </div>
     <div class="col-xl-3" style="width:25%;">
-      <img src="images/img-3.jpg" alt="">
+      <img src="images/img-3.jpg" class="img-fluid" alt="">
     </div>
     <div class="col-xl-3" style="width:25%;">
-      <img src="images/img-4.jpg" alt="">
+      <img src="images/img-4.jpg" class="img-fluid" alt="">
     </div>
   </div>
 </section>
