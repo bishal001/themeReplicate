@@ -222,6 +222,23 @@ body {
   animation-delay: 1s;
 }
 
+/* overlay image porperty */
+.overlay {
+  position: absolute;
+  top: 0;
+  bottom: 0;
+  left: 0;
+  right: 0;
+  height: 100%;
+  width: 100%;
+  opacity: 0;
+  transition: .5s ease;
+  background-color: #008CBA;
+}
+
+.overlay_:hover .overlay {
+  opacity: 1;
+}
 
 /* responsive media query */
 /* Extra small devices (phones, 600px and down) */

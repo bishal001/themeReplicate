@@ -50,17 +50,29 @@
   </div>
   <!-- stores the images for the section 3 -->
   <div class="row no-gutters">
-    <div class="col-xl-3" style="width:25%;">
+    <div class="col-xl-3 overlay_" style="width:25%;">
       <img src="images/img-1.jpg" class="img-fluid" alt="">
+      <div class="overlay">
+        <div class="text">Hello World</div>
+      </div>
     </div>
-    <div class="col-xl-3" style="width:25%;">
+    <div class="col-xl-3 overlay_" style="width:25%;">
       <img src="images/img-2.jpg" class="img-fluid" alt="">
+      <div class="overlay">
+        <div class="text">Hello World</div>
+      </div>
     </div>
-    <div class="col-xl-3" style="width:25%;">
+    <div class="col-xl-3 overlay_" style="width:25%;">
       <img src="images/img-3.jpg" class="img-fluid" alt="">
+      <div class="overlay">
+        <div class="text">Hello World</div>
+      </div>
     </div>
-    <div class="col-xl-3" style="width:25%;">
+    <div class="col-xl-3 overlay_" style="width:25%;">
       <img src="images/img-4.jpg" class="img-fluid" alt="">
+      <div class="overlay">
+        <div class="text">Hello World</div>
+      </div>
     </div>
   </div>
 </section>
