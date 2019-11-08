@@ -61,7 +61,7 @@
           <a href="#" class="text_3">Thumb Hover Superb</a>
         </div>
         <div>
-          <p style="color: #848483; font-size: 16px;">Pure CSS Instant Hover</p>
+          <p style="color: #848484; font-size: 16px;">Pure CSS Instant Hover</p>
         </div>
       </div>
     </div>
