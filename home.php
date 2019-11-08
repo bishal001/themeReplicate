@@ -50,28 +50,65 @@
   </div>
   <!-- stores the images for the section 3 -->
   <div class="row no-gutters">
-    <div class="col-xl-3 overlay_" style="width:25%;">
+    <div class="col-xl-3 overlay_ justif" style="width:25%;">
       <img src="images/img-1.jpg" class="img-fluid" alt="">
-      <div class="overlay">
-        <div class="text">Hello World</div>
+      <!-- overlay part of the image -->
+      <div class="d-flex flex-column justify-content-center overlay text-center">
+        <div class="">
+          <i class="fa fa-eye fa-3x icon"></i>
+        </div>
+        <div class="">
+          <a href="#" class="text_3">Thumb Hover Superb</a>
+        </div>
+        <div>
+          <p style="color: #848484; font-size: 16px;">Pure CSS Instant Hover</p>
+        </div>
       </div>
     </div>
+
     <div class="col-xl-3 overlay_" style="width:25%;">
       <img src="images/img-2.jpg" class="img-fluid" alt="">
-      <div class="overlay">
-        <div class="text">Hello World</div>
+      <!-- overlay part of the image -->
+      <div class="d-flex flex-column justify-content-center overlay text-center">
+        <div class="">
+          <i class="fa fa-eye fa-3x icon"></i>
+        </div>
+        <div class="">
+          <a href="#" class="text_3">Thumb Hover Superb</a>
+        </div>
+        <div>
+          <p style="color: #848484; font-size: 16px;">Pure CSS Instant Hover</p>
+        </div>
       </div>
     </div>
     <div class="col-xl-3 overlay_" style="width:25%;">
       <img src="images/img-3.jpg" class="img-fluid" alt="">
-      <div class="overlay">
-        <div class="text">Hello World</div>
+      <!-- overlay part of the image -->
+      <div class="d-flex flex-column justify-content-center overlay text-center">
+        <div class="">
+          <i class="fa fa-eye fa-3x icon"></i>
+        </div>
+        <div class="">
+          <a href="#" class="text_3">Thumb Hover Superb</a>
+        </div>
+        <div>
+          <p style="color: #848484; font-size: 16px;">Pure CSS Instant Hover</p>
+        </div>
       </div>
     </div>
     <div class="col-xl-3 overlay_" style="width:25%;">
       <img src="images/img-4.jpg" class="img-fluid" alt="">
-      <div class="overlay">
-        <div class="text">Hello World</div>
+      <!-- overlay part of the image -->
+      <div class="d-flex flex-column justify-content-center overlay text-center">
+        <div class="">
+          <i class="fa fa-eye fa-3x icon"></i>
+        </div>
+        <div class="">
+          <a href="#" class="text_3">Thumb Hover Superb</a>
+        </div>
+        <div>
+          <p style="color: #848484; font-size: 16px;">Pure CSS Instant Hover</p>
+        </div>
       </div>
     </div>
   </div>

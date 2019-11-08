@@ -233,12 +233,36 @@ body {
   width: 100%;
   opacity: 0;
   transition: .5s ease;
-  background-color: #008CBA;
+  background: rgba(0, 0, 0, 0.9);
 }
 
 .overlay_:hover .overlay {
   opacity: 1;
 }
+
+.text_3{
+  color: #eaeaea;
+  font-size: 20px;
+}
+
+.text_3:link{
+  text-decoration: none;
+}
+
+.text_3:hover{
+  color: #00F2FF;
+}
+
+
+/* styleing the icons inside the our work section */
+.icon{
+  color: #B649FF;
+}
+
+.icon:hover{
+  color: #eaeaea;
+}
+
 
 /* responsive media query */
 /* Extra small devices (phones, 600px and down) */
