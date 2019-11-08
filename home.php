@@ -40,7 +40,7 @@
 <!-- ended section 2 -->
 
 <!-- started section 3 -->
-<section class="section-3 page-scroll" id="our-work">
+<section class="page-scroll" id="our-work">
   <div class="row no-gutters section_3_text justify-content-center">
     <p class="in-left">See Our Work</p>
   </div>
@@ -113,7 +113,13 @@
     </div>
   </div>
 </section>
-<!-- started section 3 -->
+<!-- ended section 3 -->
+
+<!-- started section 4 -->
+<section class="page-scroll" id="about-us">
+  <div>asdasd</div>
+</section>
+<!-- ended section 4 -->
 
 <!-- importing custom js file -->
 <script src="javascript/custom.js"></script>

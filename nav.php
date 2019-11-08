@@ -92,7 +92,7 @@
         <a href="#our-work" class="nav-link underline">Our Work</a>
       </li>
       <li class="nav-item">
-        <a href="#" class="nav-link underline">About Us</a>
+        <a href="#about-us" class="nav-link underline">About Us</a>
       </li>
       <li class="nav-item">
         <a href="#" class="nav-link underline">Services</a>
