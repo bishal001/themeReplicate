@@ -42,7 +42,10 @@
 <!-- started section 3 -->
 <section class="section-3">
   <div class="row no-gutters">
-    <p class="text-center" style="color: #eaeaea; background-color: #0c161e; font-size: 44px; font-weight: 700; width: 100%">See Our Work</p>
+    <p class="text-center section_3_text">See Our Work</p>
+  </div>
+  <div class="row">
+    
   </div>
 </section>
 <!-- started section 3 -->
