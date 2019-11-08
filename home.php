@@ -41,11 +41,12 @@
 
 <!-- started section 3 -->
 <section class="section-3">
-  <div class="row no-gutters">
-    <p class="text-center section_3_text">See Our Work</p>
+  <div class="row no-gutters section_3_text justify-content-center">
+    <p class="in-left">See Our Work</p>
   </div>
-  <div class="row">
-    
+  <div class="row justify-content-center" style="background-color: #2c363f; color:#808E9E;font-size: 18px;">
+    <p class="in-left pt-1">The new Style for 2017 is here. Like it?</p>
+    <a href="#" class="in-left pt-1 section_3_link font-weight-bold">BUY THEME NOW!</a>
   </div>
 </section>
 <!-- started section 3 -->
