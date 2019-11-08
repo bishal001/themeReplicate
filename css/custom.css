@@ -144,6 +144,7 @@ body {
 /* section 2 background property */
 .section-2{
   background: url(../images/section_2.jpg);
+  background-attachment: fixed;
   height: 100%;
   width: 100%;  
   background-size: cover;
@@ -162,6 +163,15 @@ body {
 .button_1:hover{
   background-color: red;
   color: #eaeaea;
+}
+
+/* section 3 */
+.section_3_text{
+  color: #eaeaea; 
+  background-color: #0c161e; 
+  font-size: 44px; 
+  font-weight: 700; 
+  width: 100%
 }
 
 /* fade in left css animation effect */
