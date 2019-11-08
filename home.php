@@ -24,16 +24,16 @@
 
 <!-- started section 2 -->
 <section class="row section-2 no-gutters">
-  <div class="text">
+  <div class="text in-left">
     <div class="row">
-      <dt class="d-inline">Coolest</dt>
+      <dt class="d-inline">Coolest &nbsp;</dt>
       <p class="d-inline">HTML Theme yet?</p>
     </div>
     <div class="row">
-      <p style="font-size: 30;">Start with particle today, why not!</p>
+      <p style="font-size: 30; font-style: italic;">Start with particle today, why not!</p>
     </div>
   </div>
-  <div class="row">
+  <div class="row in-left">
     <button class="btn button_1" style="margin-left: -400px">Get it now</button>
   </div>
 </section>
