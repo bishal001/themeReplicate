@@ -25,11 +25,15 @@
 <!-- started section 2 -->
 <section class="row section-2 no-gutters">
   <div class="text">
-    <dt class="d-inline">Coolest</dt>
-    <p class="d-inline">HTML Theme yet?</p>
-    <p style="font-size: 30;">Start with particle today, why not!</p>
+    <div class="row">
+      <dt class="d-inline">Coolest</dt>
+      <p class="d-inline">HTML Theme yet?</p>
+    </div>
+    <div class="row">
+      <p style="font-size: 30;">Start with particle today, why not!</p>
+    </div>
   </div>
-  <div >
+  <div class="row">
     <button class="btn button_1">Get it now</button>
   </div>
 </section>
