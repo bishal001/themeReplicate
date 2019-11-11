@@ -18,6 +18,11 @@ body {
   margin-top: 200px;
 }
 
+.second_text{
+  font-size: 30; 
+  font-style: italic;
+}
+
 /* designing the navbar */
 
 .navbar{
@@ -288,11 +293,68 @@ body {
     transform: translate(0%,-320%);
     
   }
+  .text{
+    color: #eaeaea;
+    font-size: 30px;
+    margin-left: 100px;
+    margin-top: 200px;
+  }
+
+  .second_text{
+    font-size: 20; 
+    font-style: italic;
+  }
 }
 
 
 /* Large devices (laptops/desktops, 992px and up) */
-@media only screen and (max-width: 992px) {}
+@media only screen and (max-width: 992px) {
+  /* designing the text of the hero section */
+  .hero_text{
+    font-size: 140px;
+    color: #eaeaea;
+    margin-top: 30px;
+  }
+
+  /* css for the particle effect */
+  #particles-js{
+    width: 50%;
+    height: 25%;
+    transform: translate(0%,-120%);
+  }
+
+  /* blinking text styling */
+  .typed_text{
+    font-size: 40px; 
+    color: #eaeaea;
+    transform: translate(0%,-200%);
+    
+  }
+}
+
+@media only screen and (max-width: 1200px) {
+  /* designing the text of the hero section */
+  .hero_text{
+    font-size: 200px;
+    color: #eaeaea;
+    margin-top: 30px;
+  }
+
+  /* css for the particle effect */
+  #particles-js{
+    width: 50%;
+    height: 25%;
+    transform: translate(0%,-120%);
+  }
+
+  /* blinking text styling */
+  .typed_text{
+    font-size: 40px; 
+    color: #eaeaea;
+    transform: translate(0%,-200%);
+    
+  }
+}
 
 @media only screen and (min-width: 992px) {}
 

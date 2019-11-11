@@ -30,11 +30,11 @@
       <p class="d-inline">HTML Theme yet?</p>
     </div>
     <div class="row">
-      <p style="font-size: 30; font-style: italic;">Start with particle today, why not!</p>
+      <p class="second_text">Start with particle today, why not!</p>
     </div>
   </div>
   <div class="row in-left">
-    <button class="btn button_1" style="margin-left: -400px">Get it now</button>
+    <button class="btn button_1" style="margin-left: -300px">Get it now</button>
   </div>
 </section>
 <!-- ended section 2 -->
