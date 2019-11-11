@@ -50,7 +50,7 @@
   </div>
   <!-- stores the images for the section 3 -->
   <div class="row no-gutters">
-    <div class="col-xl-3 col-sm-6 overlay_ justif" style="width:25%;">
+    <div class="col-xl-3 col-sm-6 col-6 overlay_ justif" style="width:25%;">
       <img src="images/img-1.jpg" class="img-fluid" alt="">
       <!-- overlay part of the image -->
       <div class="d-flex flex-column justify-content-center overlay text-center">
@@ -66,7 +66,7 @@
       </div>
     </div>
 
-    <div class="col-xl-3 col-sm-6 overlay_" style="width:25%;">
+    <div class="col-xl-3 col-sm-6 col-6 overlay_" style="width:25%;">
       <img src="images/img-2.jpg" class="img-fluid" alt="">
       <!-- overlay part of the image -->
       <div class="d-flex flex-column justify-content-center overlay text-center">
@@ -81,7 +81,7 @@
         </div>
       </div>
     </div>
-    <div class="col-xl-3 col-sm-6 overlay_" style="width:25%;">
+    <div class="col-xl-3 col-sm-6 col-6 overlay_" style="width:25%;">
       <img src="images/img-3.jpg" class="img-fluid" alt="">
       <!-- overlay part of the image -->
       <div class="d-flex flex-column justify-content-center overlay text-center">
@@ -96,7 +96,7 @@
         </div>
       </div>
     </div>
-    <div class="col-xl-3 col-sm-6 overlay_" style="width:25%;">
+    <div class="col-xl-3 col-sm-6 col-6 overlay_" style="width:25%;">
       <img src="images/img-4.jpg" class="img-fluid" alt="">
       <!-- overlay part of the image -->
       <div class="d-flex flex-column justify-content-center overlay text-center">
