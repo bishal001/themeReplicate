@@ -312,6 +312,30 @@ body {
   margin-bottom: 40px;
 }
 
+/* ipad image section */
+.ipad-section{
+  position: relative;
+  margin-top: 100px;
+}
+
+.ipad-center{
+  position: absolute;
+  z-index: 1;
+  left: 32%;
+}
+
+.ipad-left{
+  position: absolute;
+  left: 3%;
+  margin-top: 62px;
+}
+
+.ipad-right{
+  position: absolute;
+  left: 68%;
+  margin-top: 62px;
+}
+
 /* responsive media query */
 
 @media only screen and (max-width: 1200px) {

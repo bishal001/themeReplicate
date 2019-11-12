@@ -151,6 +151,13 @@
               <div style="font-size: 16px; color: #647D89; display: inline-block;">Super fast & reliable</div>
             </div>
           </div>
+
+          <!-- ipad section -->
+          <div class="ipad-section fadeIn">
+            <img src="images/ipads-left.png" class="img-fluid ipad-left" alt="ipad-center">
+            <img src="images/ipads-center.png" class="img-fluid ipad-center" alt="ipad-center">
+            <img src="images/ipads-right.png" class="img-fluid ipad-right" alt="ipad-center">
+          </div>
         </div>
       </div>
     </div>
