@@ -118,7 +118,7 @@
 <!-- started section 4 -->
 <section class="page-scroll section_4" id="about-us">
   <div class="container">
-    <div class="row">
+    <div class="row no-gutters">
       <div class="col">
         <div class="about_text">
           <h2 class="fadeIn">
@@ -132,21 +132,21 @@
           <div class="row  justify-content-center p-2 fadeIn">
             <div class="d-flex flex-row " style="padding: 4px 0;">
               <div>
-                <i class="material-icons" style="overflow: hidden; font-size: 32px; color: #9600f4;">beenhere</i>
+                <i class="material-icons primary" style="overflow: hidden; font-size: 32px;">beenhere</i>
               </div>
               <div style="font-size: 16px; color: #647D89; display: inline-block;">Super fast & reliable</div>
             </div>
 
             <div class="d-flex flex-row " style="padding: 4px 0;">
               <div>
-                <i class="material-icons" style="overflow: hidden; font-size: 32px; color: #9600f4;">beenhere</i>
+                <i class="material-icons primary" style="overflow: hidden; font-size: 32px;">beenhere</i>
               </div>
               <div style="font-size: 16px; color: #647D89; display: inline-block;">Super fast & reliable</div>
             </div>
 
             <div class="d-flex flex-row" style="padding: 4px 0;">
               <div>
-                <i class="material-icons" style="overflow: hidden; font-size: 32px; color: #9600f4;">beenhere</i>
+                <i class="material-icons primary" style="overflow: hidden; font-size: 32px;">beenhere</i>
               </div>
               <div style="font-size: 16px; color: #647D89; display: inline-block;">Super fast & reliable</div>
             </div>
@@ -155,8 +155,8 @@
           <!-- ipad section -->
           <div class="ipad-section">
             <img src="images/ipads-left.png" class="img-fluid ipad-left in-left" alt="ipad-left">
-            <img src="images/ipads-center.png" class="img-fluid ipad-center in-bottom" alt="ipad-center">
             <img src="images/ipads-right.png" class="img-fluid ipad-right in-right" alt="ipad-right">
+            <img src="images/ipads-center.png" class="img-fluid ipad-center in-bottom" alt="ipad-center">
           </div>
         </div>
       </div>
@@ -166,8 +166,19 @@
 <!-- ended section 4 -->
 
 <!-- started section 5 -->
-<section>
-  
+<section class="section_5">
+  <div class="row text-center no-gutters">
+    <div class="col quote_text mt-2">
+      <p class="fadeIn">We are here to <b>make things Better</b></p>
+    </div>
+
+    <div class="quote-bottom">
+      <div class="container fadeIn">
+        <h3 class="quote-bottom_text">"Patience, persistence and perspiration make an unbeatable combination for <span class="primary">success</span>."</h3>
+        <p style="font-size: 17px; color: white; font-weight: 700;">NAPOLEON HILL <span style="color: #A4C2D6">- Author</span></p>
+      </div>
+    </div>
+  </div>
 </section>
 <!-- ended section 5 -->
 

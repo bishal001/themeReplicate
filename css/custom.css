@@ -4,6 +4,10 @@ html {
   scroll-behavior: smooth;
 }
 
+.primary{
+  color: #9600f4;
+}
+
 body {
   width: 100%;
   height: 100%;
@@ -381,6 +385,7 @@ to {
 .section_4{
   margin-top: 200px;
   text-align: center;
+  height: 100%;
 }
 
 .about_text{
@@ -398,12 +403,10 @@ to {
 /* ipad image section */
 .ipad-section{
   position: relative;
-  margin-top: 100px;
 }
 
 .ipad-center{
   position: absolute;
-  z-index: 2;
   left: 32%;
 }
 
@@ -417,6 +420,33 @@ to {
   position: absolute;
   left: 68%;
   margin-top: 62px;
+}
+
+/* section 5 */
+.section_5{
+  height: 100%;
+  position: relative;
+}
+
+.quote_text{
+  font-size: 25px;
+  background-color: #0c161e;
+  color: white;
+  padding: 30px;
+}
+
+.quote-bottom{
+  background: url(../images/quote-background.jpg) no-repeat 50% 100% fixed;
+  height: 400px; 
+  width: 100%;
+  padding-top: 137px;
+  padding-bottom: 137px;
+}
+
+.quote-bottom_text{
+  color: white;
+  font-size: 37px;
+  font-weight: 200;
 }
 
 /* responsive media query */
