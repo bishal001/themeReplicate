@@ -185,9 +185,7 @@
 <!-- ended section 5 -->
 
 <!-- started section 6 -->
-<section class="services">
 
-</section>
 <!-- ended section 6 -->
 
 <!-- importing custom js file -->

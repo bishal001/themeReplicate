@@ -155,7 +155,6 @@ body {
   height: 100%;
   width: 100%;  
   background-size: cover;
-  margin-top: -95px;
 }
 
 /* button-1 design */
@@ -449,10 +448,7 @@ to {
 }
 
 /* services section */
-.services{
-  background: #101c26;
-  height: 900px;
-}
+
 
 /* responsive media query */
 
