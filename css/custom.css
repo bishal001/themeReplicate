@@ -75,7 +75,7 @@ body {
   height: 100%;
   width: 100%;  
   background-size: cover;
-  top: 0;
+  transform: translatey(-15%);
 }
 
 .hero_layer{
@@ -155,6 +155,7 @@ body {
   height: 100%;
   width: 100%;  
   background-size: cover;
+  margin-top: -200px;
 }
 
 /* button-1 design */
