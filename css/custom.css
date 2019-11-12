@@ -52,7 +52,6 @@ body {
   right: 0;
   margin-bottom: 30;
   margin-right: 30;
-  
 }
 
 .menu_items{
@@ -404,7 +403,7 @@ to {
 
 .ipad-center{
   position: absolute;
-  z-index: 1;
+  z-index: 2;
   left: 32%;
 }
 
