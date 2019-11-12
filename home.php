@@ -121,11 +121,11 @@
     <div class="row">
       <div class="col">
         <div class="about_text">
-          <h2>
+          <h2 class="fadeIn">
             <b>About</b> <span style="color: #848484;">Particle Company</span>
           </h2>
 
-          <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Integer nec odio.
+          <p class="fadeIn">Lorem ipsum dolor sit amet, consectetur adipiscing elit. Integer nec odio.
             Praesent libero. Sed cursus ante dapibus diam. Sed nisi. Nulla quis sem at nibh elementum imperdiet.
             Duis sagittis ipsum. Praesent mauris.</p>
         </div>
