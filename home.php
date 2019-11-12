@@ -129,22 +129,22 @@
             Praesent libero. Sed cursus ante dapibus diam. Sed nisi. Nulla quis sem at nibh elementum imperdiet.
             Duis sagittis ipsum. Praesent mauris.</p>
 
-          <div class="row  justify-content-center p-2">
-            <div class="d-flex flex-row fadeIn" style="padding: 4px 0;">
+          <div class="row  justify-content-center p-2 fadeIn">
+            <div class="d-flex flex-row " style="padding: 4px 0;">
               <div>
                 <i class="material-icons" style="overflow: hidden; font-size: 32px; color: #9600f4;">beenhere</i>
               </div>
               <div style="font-size: 16px; color: #647D89; display: inline-block;">Super fast & reliable</div>
             </div>
 
-            <div class="d-flex flex-row fadeIn" style="padding: 4px 0;">
+            <div class="d-flex flex-row " style="padding: 4px 0;">
               <div>
                 <i class="material-icons" style="overflow: hidden; font-size: 32px; color: #9600f4;">beenhere</i>
               </div>
               <div style="font-size: 16px; color: #647D89; display: inline-block;">Super fast & reliable</div>
             </div>
 
-            <div class="d-flex flex-ro fadeIn" style="padding: 4px 0;">
+            <div class="d-flex flex-row" style="padding: 4px 0;">
               <div>
                 <i class="material-icons" style="overflow: hidden; font-size: 32px; color: #9600f4;">beenhere</i>
               </div>
@@ -153,10 +153,10 @@
           </div>
 
           <!-- ipad section -->
-          <div class="ipad-section fadeIn">
-            <img src="images/ipads-left.png" class="img-fluid ipad-left" alt="ipad-center">
-            <img src="images/ipads-center.png" class="img-fluid ipad-center" alt="ipad-center">
-            <img src="images/ipads-right.png" class="img-fluid ipad-right" alt="ipad-center">
+          <div class="ipad-section">
+            <img src="images/ipads-left.png" class="img-fluid ipad-left in-left" alt="ipad-left">
+            <img src="images/ipads-center.png" class="img-fluid ipad-center in-bottom" alt="ipad-center">
+            <img src="images/ipads-right.png" class="img-fluid ipad-right in-right" alt="ipad-right">
           </div>
         </div>
       </div>

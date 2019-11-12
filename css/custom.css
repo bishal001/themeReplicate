@@ -195,10 +195,10 @@ body {
 @keyframes fadeInLeft {
   from {
       opacity:0;
-      -webkit-transform: translatex(-100px);
-      -moz-transform: translatex(-100px);
-      -o-transform: translatex(-100px);
-      transform: translatex(-100px);
+      -webkit-transform: translatex(-200px);
+      -moz-transform: translatex(-200px);
+      -o-transform: translatex(-200px);
+      transform: translatex(-200px);
   }
   to {
       opacity:1;
@@ -229,8 +229,20 @@ body {
 
 /* fade in css animation effect */
 @keyframes fadeIn {
-  from { opacity: 0; }
-  to   { opacity: 1; }
+  from { 
+    opacity: 0; 
+    -webkit-transform: none;
+    -moz-transform: none;
+    -o-transform: none;
+    transform: none;
+  }
+  to {
+    opacity:1;
+    -webkit-transform: translate(0);
+    -moz-transform: translate(0);
+    -o-transform: translate(0);
+    transform: translate(0);
+}
 }
 
 .fadeIn {
@@ -238,6 +250,78 @@ body {
   -moz-animation-name: fadeIn;
   -o-animation-name: fadeIn;
   animation-name: fadeIn;
+  -webkit-animation-fill-mode: both;
+  -moz-animation-fill-mode: both;
+  -o-animation-fill-mode: both;
+  animation-fill-mode: both;
+  -webkit-animation-duration: 1s;
+  -moz-animation-duration: 1s;
+  -o-animation-duration: 1s;
+  animation-duration: 1s;
+  -webkit-animation-delay: 1s;
+  -moz-animation-delay: 1s;
+  -o-animation-duration:1s;
+  animation-delay: 1s;
+}
+
+/* fade in right css animation effect */
+@keyframes fadeInRight {
+  from {
+    opacity:0;
+    -webkit-transform: translatex(200px);
+    -moz-transform: translatex(200px);
+    -o-transform: translatex(200px);
+    transform: translatex(200px);
+}
+to {
+    opacity:1;
+    -webkit-transform: translatex(0);
+    -moz-transform: translatex(0);
+    -o-transform: translatex(0);
+    transform: translatex(0);
+}
+}
+.in-right {
+  -webkit-animation-name: fadeInRight;
+  -moz-animation-name: fadeInRight;
+  -o-animation-name: fadeInRight;
+  animation-name: fadeInRight;
+  -webkit-animation-fill-mode: both;
+  -moz-animation-fill-mode: both;
+  -o-animation-fill-mode: both;
+  animation-fill-mode: both;
+  -webkit-animation-duration: 1s;
+  -moz-animation-duration: 1s;
+  -o-animation-duration: 1s;
+  animation-duration: 1s;
+  -webkit-animation-delay: 1s;
+  -moz-animation-delay: 1s;
+  -o-animation-duration:1s;
+  animation-delay: 1s;
+}
+
+/* fade in right css animation effect */
+@keyframes fadeInBottom {
+  from {
+    opacity:0;
+    -webkit-transform: translatey(200px);
+    -moz-transform: translatey(200px);
+    -o-transform: translatey(200px);
+    transform: translatey(200px);
+}
+to {
+    opacity:1;
+    -webkit-transform: translatex(0);
+    -moz-transform: translatex(0);
+    -o-transform: translatex(0);
+    transform: translatex(0);
+}
+}
+.in-bottom {
+  -webkit-animation-name: fadeInBottom;
+  -moz-animation-name: fadeInBottom;
+  -o-animation-name: fadeInBottom;
+  animation-name: fadeInBottom;
   -webkit-animation-fill-mode: both;
   -moz-animation-fill-mode: both;
   -o-animation-fill-mode: both;
