@@ -128,6 +128,21 @@
           <p class="fadeIn">Lorem ipsum dolor sit amet, consectetur adipiscing elit. Integer nec odio.
             Praesent libero. Sed cursus ante dapibus diam. Sed nisi. Nulla quis sem at nibh elementum imperdiet.
             Duis sagittis ipsum. Praesent mauris.</p>
+
+          <div class="d-flex flex-row justify-content-center fadeIn">
+            <div>
+              <i class="material-icons" style="font-size: 32px; color: #9600f4;">beenhere</i>
+              <div style="font-size: 16px; color: #647D89; display: inline-block;">Super fast & reliable</div>
+            </div>
+            <div>
+              <i class="material-icons" style="font-size: 32px; color: #9600f4;">beenhere</i>
+              <span>aaaa</span>
+            </div>
+            <div>
+              <i class="material-icons" style="font-size: 32px; color: #9600f4;">beenhere</i>
+              <span>aaaa</span>
+            </div>
+          </div>
         </div>
       </div>
     </div>
