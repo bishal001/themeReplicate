@@ -117,8 +117,20 @@
 
 <!-- started section 4 -->
 <section class="page-scroll section_4" id="about-us">
-  <div class="row justify-content-center">
-    <p><b>About </b>Particle Company</p>
+  <div class="container">
+    <div class="row">
+      <div class="col">
+        <div class="about_text">
+          <h2>
+            <b>About</b> <span style="color: #848484;">Particle Company</span>
+          </h2>
+
+          <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Integer nec odio.
+            Praesent libero. Sed cursus ante dapibus diam. Sed nisi. Nulla quis sem at nibh elementum imperdiet.
+            Duis sagittis ipsum. Praesent mauris.</p>
+        </div>
+      </div>
+    </div>
   </div>
 </section>
 <!-- ended section 4 -->

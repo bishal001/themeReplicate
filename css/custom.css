@@ -272,6 +272,19 @@ body {
 
 .section_4{
   margin-top: 200px;
+  text-align: center;
+}
+
+.about_text{
+  font-size: 40px;
+  color: #3A3A3A;
+}
+
+.about_text p{
+  font-size: 16px;
+  color: #647D89;
+  font-weight: 300;
+  margin-bottom: 40px;
 }
 
 /* responsive media query */
