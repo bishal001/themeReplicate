@@ -448,6 +448,13 @@ to {
   font-weight: 200;
 }
 
+/* services section */
+.services{
+  background: #101c26;
+  height: 900px;
+  margin-top: -105px;
+}
+
 /* responsive media query */
 
 @media only screen and (max-width: 1200px) {
