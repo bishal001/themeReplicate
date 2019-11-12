@@ -81,12 +81,12 @@
 </style>
 <!-- creating a navigation manu for the large screen -->
 <div class="d-lg-block d-none">
-  <nav class="navbar navbar-expand-lg">
+  <nav class="navbar navbar-expand-lg" style="z-index: 1; position: absolute;">
     <a class="navbar-brand" href="#"><img src="images/logo.png" class="img-fluid" alt="">Turtle</a>
-    <ul class="navbar-nav ml-auto mr-5">
+    <ul class="navbar-nav ml-auto">
       <!-- creating nav menu items -->
       <li class="nav-item">
-        <a href="#home" class="nav-link underline ml-3">Home</a>
+        <a href="#home" class="nav-link underline">Home</a>
       </li>
       <li class="nav-item">
         <a href="#our-work" class="nav-link underline">Our Work</a>
