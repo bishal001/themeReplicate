@@ -1,6 +1,6 @@
 <!-- creating a navigation manu for the large screen -->
 <div class="d-lg-block d-none">
-  <nav class="navbar navbar-expand-lg" style="z-index: 1;">
+  <nav class="navbar navbar-expand-lg">
     <a class="navbar-brand" href="#"><img src="images/logo.png" class="img-fluid" alt="">Turtle</a>
     <ul class="navbar-nav ml-auto">
       <!-- creating nav menu items -->

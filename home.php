@@ -1,9 +1,12 @@
 <!-- calling the header section -->
 <?php include'header.php'?>
 
+
 <!-- Section 1 started -->
 <section class="row hero no-gutters page-scroll" id="home">
   <div class="hero_layer">
+    <!-- calling nav menu -->
+    <?php include'nav.php'?>
     <!-- hero section text -->
     <div class="col-xl-12 col-lg-12 col-md-12 font-weight-bold hero_text text-center">turtle</div>
     <!-- div to display the partical effect -->
@@ -183,7 +186,7 @@
 
 <!-- started section 6 -->
 <section class="services">
-  
+
 </section>
 <!-- ended section 6 -->
 

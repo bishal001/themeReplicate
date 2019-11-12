@@ -19,5 +19,3 @@
     
 </head>
 <body>
-<!-- calling nav menu -->
-<?php include'nav.php'?>

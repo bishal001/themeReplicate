@@ -74,8 +74,9 @@ body {
   background: url(../images/hero.jpg) no-repeat;
   height: 100%;
   width: 100%;  
+  position: relative;
   background-size: cover;
-  transform: translatey(-15%);
+  padding-top: 10px;
 }
 
 .hero_layer{
@@ -92,7 +93,6 @@ body {
 .hero_text{
   font-size: 300px;
   color: #eaeaea;
-  margin-top: 50px;
 }
 
 
@@ -452,7 +452,6 @@ to {
 .services{
   background: #101c26;
   height: 900px;
-  margin-top: -105px;
 }
 
 /* responsive media query */
