@@ -1,6 +1,6 @@
 <!-- calling the header section -->
 <?php include'header.php'?>
-<?php include'nav.php'?>
+
 <!-- Section 1 started -->
 <section class="row hero no-gutters page-scroll" id="home">
   <div class="hero_layer">
