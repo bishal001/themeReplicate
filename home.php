@@ -182,6 +182,12 @@
 </section>
 <!-- ended section 5 -->
 
+<!-- started section 6 -->
+<section>
+  
+</section>
+<!-- ended section 6 -->
+
 <!-- importing custom js file -->
 <script src="javascript/custom.js"></script>
 <!-- calling js files for the particles -->
