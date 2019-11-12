@@ -117,7 +117,7 @@
 
 <!-- started section 4 -->
 <section class="page-scroll section_4" id="about-us">
-  <div>
+  <div class="row justify-content-center">
     <p><b>About </b>Particle Company</p>
   </div>
 </section>
