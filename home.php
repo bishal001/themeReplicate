@@ -116,8 +116,10 @@
 <!-- ended section 3 -->
 
 <!-- started section 4 -->
-<section class="page-scroll" id="about-us">
-  <div></div>
+<section class="page-scroll section_4" id="about-us">
+  <div>
+    <p><b>About </b>Particle Company</p>
+  </div>
 </section>
 <!-- ended section 4 -->
 
