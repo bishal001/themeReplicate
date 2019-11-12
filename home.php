@@ -174,8 +174,10 @@
 
     <div class="quote-bottom">
       <div class="container fadeIn">
-        <h3 class="quote-bottom_text">"Patience, persistence and perspiration make an unbeatable combination for <span class="primary">success</span>."</h3>
-        <p style="font-size: 17px; color: white; font-weight: 700;">NAPOLEON HILL <span style="color: #A4C2D6">- Author</span></p>
+        <h3 class="quote-bottom_text">"Patience, persistence and perspiration make an unbeatable combination for <span
+            class="primary">success</span>."</h3>
+        <p style="font-size: 17px; color: white; font-weight: 700;">NAPOLEON HILL <span style="color: #A4C2D6">-
+            Author</span></p>
       </div>
     </div>
   </div>
@@ -184,7 +186,7 @@
 
 <!-- started section 6 -->
 <section>
-  
+
 </section>
 <!-- ended section 6 -->
 
