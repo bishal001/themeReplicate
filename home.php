@@ -129,18 +129,26 @@
             Praesent libero. Sed cursus ante dapibus diam. Sed nisi. Nulla quis sem at nibh elementum imperdiet.
             Duis sagittis ipsum. Praesent mauris.</p>
 
-          <div class="d-flex flex-row justify-content-center fadeIn">
-            <div>
-              <i class="material-icons" style="font-size: 32px; color: #9600f4;">beenhere</i>
+          <div class="row  justify-content-center p-2">
+            <div class="d-flex flex-row fadeIn" style="padding: 4px 0;">
+              <div>
+                <i class="material-icons" style="overflow: hidden; font-size: 32px; color: #9600f4;">beenhere</i>
+              </div>
               <div style="font-size: 16px; color: #647D89; display: inline-block;">Super fast & reliable</div>
             </div>
-            <div>
-              <i class="material-icons" style="font-size: 32px; color: #9600f4;">beenhere</i>
-              <span>aaaa</span>
+
+            <div class="d-flex flex-row fadeIn" style="padding: 4px 0;">
+              <div>
+                <i class="material-icons" style="overflow: hidden; font-size: 32px; color: #9600f4;">beenhere</i>
+              </div>
+              <div style="font-size: 16px; color: #647D89; display: inline-block;">Super fast & reliable</div>
             </div>
-            <div>
-              <i class="material-icons" style="font-size: 32px; color: #9600f4;">beenhere</i>
-              <span>aaaa</span>
+
+            <div class="d-flex flex-ro fadeIn" style="padding: 4px 0;">
+              <div>
+                <i class="material-icons" style="overflow: hidden; font-size: 32px; color: #9600f4;">beenhere</i>
+              </div>
+              <div style="font-size: 16px; color: #647D89; display: inline-block;">Super fast & reliable</div>
             </div>
           </div>
         </div>
