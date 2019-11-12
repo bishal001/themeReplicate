@@ -270,42 +270,30 @@ body {
 
 
 /* responsive media query */
-/* Extra small devices (phones, 600px and down) */
-@media only screen and (max-width: 600px) {
+
+@media only screen and (max-width: 1200px) {
   /* designing the text of the hero section */
   .hero_text{
-    font-size: 100px;
+    font-size: 200px;
     color: #eaeaea;
-    margin-top: 100px;
+    margin-top: 30px;
   }
 
   /* css for the particle effect */
   #particles-js{
-    width: 45%;
-    height: 30%;
-    transform: translate(0%,-100%);
+    width: 50%;
+    height: 25%;
+    transform: translate(0%,-120%);
   }
 
   /* blinking text styling */
   .typed_text{
-    font-size: 30px; 
+    font-size: 40px; 
     color: #eaeaea;
-    transform: translate(0%,-320%);
+    transform: translate(0%,-200%);
     
   }
-  .text{
-    color: #eaeaea;
-    font-size: 30px;
-    margin-left: 100px;
-    margin-top: 200px;
-  }
-
-  .second_text{
-    font-size: 20; 
-    font-style: italic;
-  }
 }
-
 
 /* Large devices (laptops/desktops, 992px and up) */
 @media only screen and (max-width: 992px) {
@@ -332,27 +320,39 @@ body {
   }
 }
 
-@media only screen and (max-width: 1200px) {
+/* Extra small devices (phones, 600px and down) */
+@media only screen and (max-width: 600px) {
   /* designing the text of the hero section */
   .hero_text{
-    font-size: 200px;
+    font-size: 100px;
     color: #eaeaea;
-    margin-top: 30px;
+    margin-top: 100px;
   }
 
   /* css for the particle effect */
   #particles-js{
-    width: 50%;
-    height: 25%;
-    transform: translate(0%,-120%);
+    width: 45%;
+    height: 20%;
+    transform: translate(0%,-100%);
   }
 
   /* blinking text styling */
   .typed_text{
-    font-size: 40px; 
+    font-size: 30px; 
     color: #eaeaea;
-    transform: translate(0%,-200%);
+    transform: translate(0%,-320%);
     
+  }
+  .text{
+    color: #eaeaea;
+    font-size: 30px;
+    margin-left: 100px;
+    margin-top: 200px;
+  }
+
+  .second_text{
+    font-size: 20; 
+    font-style: italic;
   }
 }
 
