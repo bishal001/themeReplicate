@@ -67,7 +67,6 @@ body {
   transform: translate(0%,-20%);
   background-color:rgba(12, 22, 30, 0.9);
   padding-left: 10;
-  
 }
 
 /* designing the herosection */
@@ -76,6 +75,7 @@ body {
   height: 100%;
   width: 100%;  
   background-size: cover;
+  top: 0;
 }
 
 .hero_layer{

@@ -4,8 +4,6 @@
 <!-- Section 1 started -->
 <section class="row hero no-gutters page-scroll" id="home">
   <div class="hero_layer">
-    
-
     <!-- hero section text -->
     <div class="col-xl-12 col-lg-12 col-md-12 font-weight-bold hero_text text-center">turtle</div>
     <!-- div to display the partical effect -->
