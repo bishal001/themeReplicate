@@ -178,7 +178,7 @@ body {
   background-color: #0c161e; 
   font-size: 44px; 
   font-weight: 700; 
-  width: 100%
+  width: 100%;
 }
 
 .section_3_link{
@@ -383,7 +383,6 @@ to {
 .section_4{
   margin-top: 200px;
   text-align: center;
-  height: 100%;
 }
 
 .about_text{
@@ -422,7 +421,7 @@ to {
 
 /* section 5 */
 .section_5{
-  height: 100%;
+  height: auto;
   position: relative;
 }
 
@@ -448,7 +447,9 @@ to {
 }
 
 /* services section */
-
+.service_section{
+  background-color: #101c26;
+}
 
 /* responsive media query */
 

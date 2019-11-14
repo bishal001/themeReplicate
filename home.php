@@ -40,11 +40,11 @@
 <!-- ended section 2 -->
 
 <!-- started section 3 -->
-<section class="page-scroll" id="our-work">
+<section class="row page-scroll justify-content-center no-gutters" id="our-work" style="height: auto">
   <div class="row no-gutters section_3_text justify-content-center">
     <p class="in-left">See Our Work</p>
   </div>
-  <div class="row justify-content-center" style="background-color: #2c363f; color:#808E9E;font-size: 18px;">
+  <div class="row justify-content-center" style="background-color: #2c363f; color:#808E9E;font-size: 18px; width:100%">
     <p class="in-left pt-1">The new Style for 2017 is here. Like it?</p>
     <a href="#" class="in-left pt-1 section_3_link font-weight-bold">BUY THEME NOW!</a>
   </div>
@@ -116,7 +116,7 @@
 <!-- ended section 3 -->
 
 <!-- started section 4 -->
-<section class="page-scroll section_4" id="about-us">
+<section class="row no-gutters page-scroll section_4" id="about-us" style="height: 100%">
   <div class="container">
     <div class="row no-gutters">
       <div class="col">
@@ -166,9 +166,9 @@
 <!-- ended section 4 -->
 
 <!-- started section 5 -->
-<section class="section_5">
+<section class="row section_5">
   <div class="row text-center no-gutters">
-    <div class="col quote_text mt-2">
+    <div class="col quote_text">
       <p class="fadeIn">We are here to <b>make things Better</b></p>
     </div>
 
@@ -185,7 +185,9 @@
 <!-- ended section 5 -->
 
 <!-- started section 6 -->
-
+<section class="row service_section">
+  ssss
+</section>
 <!-- ended section 6 -->
 
 <!-- importing custom js file -->
