@@ -186,7 +186,12 @@
 
 <!-- started section 6 -->
 <section class="row service_section justify-content-center" id="services">
-  <h2>What We do, We do <span class="primary">Best!</span></h2>
+  <div class="container">
+    <h2>What We do, We do <span class="primary">Best!</span></h2>
+    <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Integer nec odio.
+      Praesent libero. Sed cursus ante dapibus diam. Sed nisi. Nulla quis sem at nibh elementum imperdiet.
+      Duis sagittis ipsum. Praesent mauris.</p>
+  </div>
 </section>
 <!-- ended section 6 -->
 

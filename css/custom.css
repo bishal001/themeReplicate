@@ -451,13 +451,21 @@ to {
   background-color: #101c26;
 }
 
-/* service section text style */
+/* service section h2 tag style */
 .service_section h2{
   color: white;
   margin-top: 80px;
   font-weight: 200;
   font-size: 37px;
   margin-bottom: 30px;
+  text-align: center;
+}
+
+/* service section p tag style */
+.service_section p{
+  color: #7EACBC;
+  font-size: 16px;
+  text-align: center;
 }
 
 /* responsive media query */
