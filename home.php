@@ -185,8 +185,8 @@
 <!-- ended section 5 -->
 
 <!-- started section 6 -->
-<section class="row service_section">
-  ssss
+<section class="row service_section justify-content-center" id="services">
+  <h2>What We do, We do <span class="primary">Best!</span></h2>
 </section>
 <!-- ended section 6 -->
 

@@ -52,7 +52,7 @@
           <a href="#" class="nav-link underline">About Us</a>
         </li>
         <li class="nav-item">
-          <a href="#" class="nav-link underline">Services</a>
+          <a href="#services" class="nav-link underline">Services</a>
         </li>
         <li class="nav-item">
           <a href="#" class="nav-link underline">Our Skills</a>

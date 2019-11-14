@@ -451,6 +451,15 @@ to {
   background-color: #101c26;
 }
 
+/* service section text style */
+.service_section h2{
+  color: white;
+  margin-top: 80px;
+  font-weight: 200;
+  font-size: 37px;
+  margin-bottom: 30px;
+}
+
 /* responsive media query */
 
 @media only screen and (max-width: 1200px) {
