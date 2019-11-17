@@ -466,6 +466,7 @@ to {
   color: #7EACBC;
   font-size: 16px;
   text-align: center;
+  height: auto;
 }
 
 /* responsive media query */
