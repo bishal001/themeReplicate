@@ -192,6 +192,11 @@
       Praesent libero. Sed cursus ante dapibus diam. Sed nisi. Nulla quis sem at nibh elementum imperdiet.
       Duis sagittis ipsum. Praesent mauris.</p>
     <div class="iphone_section text-center">
+      <div class="left">
+        <div class="fadeIn">
+          <a href="#">Graphic Design</a>
+        </div>
+      </div>
       <img src="images/iphone-services.png" alt="" class="img-fluid">
     </div>
   </div>

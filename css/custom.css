@@ -471,8 +471,16 @@ to {
 
 /* iphone section */
 .iphone_section{
-  margin-top: 150px;
+  margin-top: 100px;
 }
+
+/* iphone section link style */
+.left a{
+  color: #A4C2D6;
+
+}
+
+
 
 /* responsive media query */
 
