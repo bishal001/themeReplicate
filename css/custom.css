@@ -469,6 +469,11 @@ to {
   height: auto;
 }
 
+/* iphone section */
+.iphone_section{
+  margin-top: 150px;
+}
+
 /* responsive media query */
 
 @media only screen and (max-width: 1200px) {

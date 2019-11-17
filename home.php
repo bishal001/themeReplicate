@@ -191,7 +191,7 @@
     <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Integer nec odio.
       Praesent libero. Sed cursus ante dapibus diam. Sed nisi. Nulla quis sem at nibh elementum imperdiet.
       Duis sagittis ipsum. Praesent mauris.</p>
-    <div class="iphone_section">
+    <div class="iphone_section text-center">
       <img src="images/iphone-services.png" alt="" class="img-fluid">
     </div>
   </div>
