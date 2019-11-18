@@ -193,10 +193,14 @@
       Duis sagittis ipsum. Praesent mauris.</p>
     <div class="row iphone_section text-center">
       <div class="left col-4">
-        <div class="fadeIn" style="text-align:right">
-          <a href="#">Graphic Design</a>
-          <p style="text-align:right">Lorem ipsum dolor sit amet, consecte adipiscing elit. Integer nec odio.</p>
-          <i class="fa fa-pencil fa-lg" style="color:red"></i>
+        <div class="d-flex flex-row">
+          <div class="fadeIn" style="text-align:right">
+            <a href="#">Graphic Design</a>
+            <p style="text-align:right">Lorem ipsum dolor sit amet, consecte adipiscing elit. Integer nec odio.</p>
+          </div>
+          <div>
+            <i class="fa fa-pencil fa-lg" style="color:red"></i>
+          </div>
         </div>
       </div>
       <div class="middle col-4">
