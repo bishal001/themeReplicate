@@ -474,10 +474,18 @@ to {
   margin-top: 100px;
 }
 
+.left{
+  margin-top: 60px;
+}
+
 /* iphone section link style */
 .left a{
   color: #A4C2D6;
+}
 
+.left p{
+  color: #77A3B2;
+  font-size: 14px;
 }
 
 

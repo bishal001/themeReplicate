@@ -191,13 +191,17 @@
     <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Integer nec odio.
       Praesent libero. Sed cursus ante dapibus diam. Sed nisi. Nulla quis sem at nibh elementum imperdiet.
       Duis sagittis ipsum. Praesent mauris.</p>
-    <div class="iphone_section text-center">
-      <div class="left">
-        <div class="fadeIn">
+    <div class="row iphone_section text-center">
+      <div class="left col-4">
+        <div class="fadeIn" style="text-align:right">
           <a href="#">Graphic Design</a>
+          <p style="text-align:right">Lorem ipsum dolor sit amet, consecte adipiscing elit. Integer nec odio.</p>
+          <i class="fa fa-pencil fa-lg" style="color:red"></i>
         </div>
       </div>
-      <img src="images/iphone-services.png" alt="" class="img-fluid">
+      <div class="middle col-4">
+        <img src="images/iphone-services.png" alt="" class="img-fluid">
+      </div>
     </div>
   </div>
 </section>
