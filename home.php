@@ -283,6 +283,10 @@
 </section>
 <!-- ended action section -->
 
+<!-- our skills section started -->
+<section id="our_skill"></section>
+<!-- our skills section ended -->
+
 <!-- importing custom js file -->
 <script src="javascript/custom.js"></script>
 <!-- calling js files for the particles -->

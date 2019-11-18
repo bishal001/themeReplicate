@@ -14,10 +14,10 @@
         <a href="#about-us" class="nav-link underline">About Us</a>
       </li>
       <li class="nav-item">
-        <a href="#" class="nav-link underline">Services</a>
+        <a href="#services" class="nav-link underline">Services</a>
       </li>
       <li class="nav-item">
-        <a href="#" class="nav-link underline">Our Skills</a>
+        <a href="#our_skill" class="nav-link underline">Our Skills</a>
       </li>
       <li class="nav-item">
         <a href="#" class="nav-link underline">Contact Us</a>
@@ -55,7 +55,7 @@
           <a href="#services" class="nav-link underline">Services</a>
         </li>
         <li class="nav-item">
-          <a href="#" class="nav-link underline">Our Skills</a>
+          <a href="#our_skill" class="nav-link underline">Our Skills</a>
         </li>
         <li class="nav-item">
           <a href="#" class="nav-link underline">Contact Us</a>
