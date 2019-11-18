@@ -199,7 +199,17 @@
             <p style="text-align:right">Lorem ipsum dolor sit amet, consecte adipiscing elit. Integer nec odio.</p>
           </div>
           <div>
-            <i class="fa fa-pencil fa-lg ml-4 mt-3" style="color:red"></i>
+            <i class="material-icons ml-4 mt-3">create</i>
+          </div>
+        </div>
+
+        <div class="d-flex flex-row">
+          <div class="fadeIn" style="text-align:right; ">
+            <a href="#">Web Design</a>
+            <p style="text-align:right">Lorem ipsum dolor sit amet, consecte adipiscing elit. Integer nec odio.</p>
+          </div>
+          <div>
+            <i class="fa fa-pencil fa-2x ml-4 mt-3"></i>
           </div>
         </div>
       </div>

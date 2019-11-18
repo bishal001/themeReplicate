@@ -482,6 +482,17 @@ to {
 /* iphone section link style */
 .left a{
   color: #A4C2D6;
+  font-weight: 700;
+}
+
+.left i{
+  color: #9600f4;
+  font-size: 37px;
+}
+
+.left a:hover{
+  text-decoration: none;
+  color: #9600f4;
 }
 
 .left p{
