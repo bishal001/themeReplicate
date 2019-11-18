@@ -228,8 +228,37 @@
         <img src="images/iphone-services.png" alt="" class="img-fluid">
       </div>
 
-      <div class="right col-4">
-      
+      <div class="right col-3">
+        <div class="d-flex flex-row">
+          <div>
+            <i class="material-icons mr-4 mt-3">photo_camera</i>
+          </div>
+          <div class="fadeIn" style="text-align:left; ">
+            <a href="#">Photography</a>
+            <p style="text-align:left">Lorerm ipsum dolor sit amet, consecte adipiscing elit. Integer nec odio.</p>
+          </div>
+        </div>
+
+        <div class="d-flex flex-row">
+          <div>
+            <i class="material-icons mr-4 mt-3">mic</i>
+          </div>
+          <div class="fadeIn" style="text-align:left; ">
+            <a href="#">Marketing</a>
+            <p style="text-align:left">Lorerm ipsum dolor sit amet, consecte adipiscing elit. Integer nec odio.</p>
+          </div>
+        </div>
+
+        <div class="d-flex flex-row">
+          <div>
+            <i class="material-icons mr-4 mt-3">play_circle_filled</i>
+          </div>
+          <div class="fadeIn" style="text-align:left; ">
+            <a href="#">Video Production</a>
+            <p style="text-align:left">Lorerm ipsum dolor sit amet, consecte adipiscing elit. Integer nec odio.</p>
+          </div>
+        </div>
+        
       </div>
     </div>
   </div>

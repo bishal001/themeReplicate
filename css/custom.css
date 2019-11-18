@@ -472,8 +472,10 @@ to {
 /* iphone section */
 .iphone_section{
   margin-top: 100px;
+  margin-bottom: 30px;
 }
 
+/* iphone section left side */
 .left{
   margin-top: 60px;
   margin-left: 150px;
@@ -500,7 +502,31 @@ to {
   font-size: 14px;
 }
 
+/* iphone section right side */
+.right{
+  margin-top: 60px;
+}
 
+/* iphone section link style */
+.right a{
+  color: #A4C2D6;
+  font-weight: 700;
+}
+
+.right i{
+  color: #9600f4;
+  font-size: 37px;
+}
+
+.right a:hover{
+  text-decoration: none;
+  color: #9600f4;
+}
+
+.right p{
+  color: #77A3B2;
+  font-size: 14px;
+}
 
 /* responsive media query */
 
