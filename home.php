@@ -268,7 +268,17 @@
 <!-- started action section -->
 <section class="action_section">
   <div class="action_layer">
-    aaaa
+    <div class="container ">
+      <div class="row action_text justify-content-center">
+        <h3 class="fadeIn">
+          Like what You see? <b>Get Particle</b> Now!
+        </h3>
+        <p class="fadeIn">Lorem ipsum dolor sit amet, consectetur adipiscing elit. Integer nec odio. Praesent libero.
+          Sed cursus ante dapibus diam. Sed nisi. Nulla quis sem at nibh elementum imperdiet. Duis sagittis ipsum.
+          Praesent mauris.</p>
+        <button class="btn">Get it Now</button>      
+      </div>
+    </div>
   </div>
 </section>
 <!-- ended action section -->

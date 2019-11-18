@@ -548,6 +548,38 @@ to {
   left: 0;
 }
 
+/* styleing action section h3 tag */
+.action_text h3{
+  margin-top: 120px;
+  color: white;
+  font-weight: 200;
+  font-size: 47px;
+}
+
+/* styleing action section p tag */
+.action_text p{
+  color: white;
+  font-weight: 300;
+  font-size: 16px;
+  text-align: center;
+  margin-top: 20px;
+}
+
+/* styleing action section button */
+.action_text button{
+  color: white;
+  background-image: linear-gradient(to right, #00F2FF, #00BBFF 100%);
+  margin-top: 20px;
+  width: 180px;
+  height: 50px;
+  margin-bottom: 80px;
+}
+
+.action_text button:hover{
+  color: white;
+  background: rgba(0, 0, 0, 0.4);
+}
+
 /* responsive media query */
 
 @media only screen and (max-width: 1200px) {
