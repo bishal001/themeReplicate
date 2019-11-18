@@ -209,12 +209,27 @@
             <p style="text-align:right">Lorem ipsum dolor sit amet, consecte adipiscing elit. Integer nec odio.</p>
           </div>
           <div>
-            <i class="fa fa-pencil fa-2x ml-4 mt-3"></i>
+            <i class="material-icons ml-4 mt-3">screen_share</i>
+          </div>
+        </div>
+
+        <div class="d-flex flex-row">
+          <div class="fadeIn" style="text-align:right; ">
+            <a href="#">Social Media</a>
+            <p style="text-align:right">Lorem ipsum dolor sit amet, consecte adipiscing elit. Integer nec odio.</p>
+          </div>
+          <div>
+            <i class="material-icons ml-4 mt-3">devices</i>
           </div>
         </div>
       </div>
+
       <div class="middle col-3">
         <img src="images/iphone-services.png" alt="" class="img-fluid">
+      </div>
+
+      <div class="right col-4">
+      
       </div>
     </div>
   </div>
