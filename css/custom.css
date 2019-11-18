@@ -528,6 +528,26 @@ to {
   font-size: 14px;
 }
 
+/* action_section styleing */
+.action_section{
+  width: 100%;
+  height: auto;
+  background: url(../images/hero.jpg) no-repeat;
+  position: relative;
+  background-size: cover;
+  padding-top: 10px;
+}
+
+.action_layer{
+  height: auto;
+  width: 100%;  
+  background-image: linear-gradient(to right, #00F2FF, #7100B7 100%);
+  opacity: 0.8;
+  position: absolute;
+  top: 0;
+  left: 0;
+}
+
 /* responsive media query */
 
 @media only screen and (max-width: 1200px) {

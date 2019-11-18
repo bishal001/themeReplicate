@@ -258,12 +258,20 @@
             <p style="text-align:left">Lorerm ipsum dolor sit amet, consecte adipiscing elit. Integer nec odio.</p>
           </div>
         </div>
-        
+
       </div>
     </div>
   </div>
 </section>
 <!-- ended section 6 -->
+
+<!-- started action section -->
+<section class="action_section">
+  <div class="action_layer">
+    aaaa
+  </div>
+</section>
+<!-- ended action section -->
 
 <!-- importing custom js file -->
 <script src="javascript/custom.js"></script>
