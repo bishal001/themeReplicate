@@ -199,7 +199,7 @@
             <p style="text-align:right">Lorem ipsum dolor sit amet, consecte adipiscing elit. Integer nec odio.</p>
           </div>
           <div>
-            <i class="material-icons ml-4 mt-3">create</i>
+            <i class="material-icons ml-4 mt-3 fadeIn">create</i>
           </div>
         </div>
 
@@ -209,7 +209,7 @@
             <p style="text-align:right">Lorem ipsum dolor sit amet, consecte adipiscing elit. Integer nec odio.</p>
           </div>
           <div>
-            <i class="material-icons ml-4 mt-3">screen_share</i>
+            <i class="material-icons ml-4 mt-3 fadeIn">screen_share</i>
           </div>
         </div>
 
@@ -219,7 +219,7 @@
             <p style="text-align:right">Lorem ipsum dolor sit amet, consecte adipiscing elit. Integer nec odio.</p>
           </div>
           <div>
-            <i class="material-icons ml-4 mt-3">devices</i>
+            <i class="material-icons ml-4 mt-3 fadeIn">devices</i>
           </div>
         </div>
       </div>
@@ -231,7 +231,7 @@
       <div class="right col-3">
         <div class="d-flex flex-row">
           <div>
-            <i class="material-icons mr-4 mt-3">photo_camera</i>
+            <i class="material-icons mr-4 mt-3 fadeIn">photo_camera</i>
           </div>
           <div class="fadeIn" style="text-align:left; ">
             <a href="#">Photography</a>
@@ -241,7 +241,7 @@
 
         <div class="d-flex flex-row">
           <div>
-            <i class="material-icons mr-4 mt-3">mic</i>
+            <i class="material-icons mr-4 mt-3 fadeIn">mic</i>
           </div>
           <div class="fadeIn" style="text-align:left; ">
             <a href="#">Marketing</a>
@@ -251,7 +251,7 @@
 
         <div class="d-flex flex-row">
           <div>
-            <i class="material-icons mr-4 mt-3">play_circle_filled</i>
+            <i class="material-icons mr-4 mt-3 fadeIn">play_circle_filled</i>
           </div>
           <div class="fadeIn" style="text-align:left; ">
             <a href="#">Video Production</a>
@@ -286,7 +286,7 @@
 <!-- our skills section started -->
 <section id="our_skill"></section>
 <!-- our skills section ended -->
-
+  
 <!-- importing custom js file -->
 <script src="javascript/custom.js"></script>
 <!-- calling js files for the particles -->
